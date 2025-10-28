@@ -3,6 +3,9 @@ Library/
 library/
 Assets/
 assets/
+UserSettings/
+userSettings/
+
 
 # Logs
 *.log
@@ -18,7 +21,6 @@ Build/
 build/
 Builds/
 builds/
-UserSettings/
 
 # Arquivos de backup e temporários do Unity
 *.pidb
