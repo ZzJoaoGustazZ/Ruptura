@@ -1,0 +1,11 @@
+{
+    "asset": "d5ce72b2919fd4940a844c08dcfe6322",
+    "fileName": "0198b116-ebe6-7e7e-961c-5152f964e82d.pose.json",
+    "prompt": "wash dishes without moving the feet",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1474277162,
+    "w3CTraceId": "0cd5c3a428114ef8e0a6bd12bbef031b",
+    "isTrimmed": false
+}

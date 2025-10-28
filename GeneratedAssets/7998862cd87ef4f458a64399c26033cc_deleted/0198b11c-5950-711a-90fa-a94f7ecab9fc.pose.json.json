@@ -1,0 +1,11 @@
+{
+    "asset": "7998862cd87ef4f458a64399c26033cc",
+    "fileName": "0198b11c-5950-711a-90fa-a94f7ecab9fc.pose.json",
+    "prompt": "olhe para os lados e para trás",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 152901598,
+    "w3CTraceId": "ae34d884121a1c7bf912f3f69ffdd202",
+    "isTrimmed": false
+}

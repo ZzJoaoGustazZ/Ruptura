@@ -1,0 +1,11 @@
+{
+    "asset": "f9ea5fa266c7c47498603e9e99ebefb7",
+    "fileName": "0198b0f9-40a5-78ec-81b0-51f3306b0c76.pose.json",
+    "prompt": "washing dishes deep",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1899621649,
+    "w3CTraceId": "c8db336e5a5236075fd2283dbe72a2f1",
+    "isTrimmed": false
+}

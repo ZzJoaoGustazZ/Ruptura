@@ -1,0 +1,13 @@
+{
+    "asset": "8c4d09acf2f2c1b448f679aef02cd5b8",
+    "fileName": "0198afe8-43d6-769f-922a-8bb3aa637281.wav",
+    "prompt": "esquisofrenic",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "f205128b705fb2fa33e34bc8913ebf2e",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

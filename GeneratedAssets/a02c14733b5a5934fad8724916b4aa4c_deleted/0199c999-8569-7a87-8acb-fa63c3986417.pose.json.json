@@ -1,0 +1,11 @@
+{
+    "asset": "a02c14733b5a5934fad8724916b4aa4c",
+    "fileName": "0199c999-8569-7a87-8acb-fa63c3986417.pose.json",
+    "prompt": "wake up,, be careful not to hurt your legs",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1455064187,
+    "w3CTraceId": "dab2ae93610e223b29deaaf431312bf5",
+    "isTrimmed": false
+}

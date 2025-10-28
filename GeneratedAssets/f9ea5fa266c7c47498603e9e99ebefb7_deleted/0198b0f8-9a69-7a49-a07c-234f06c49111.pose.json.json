@@ -1,0 +1,11 @@
+{
+    "asset": "f9ea5fa266c7c47498603e9e99ebefb7",
+    "fileName": "0198b0f8-9a69-7a49-a07c-234f06c49111.pose.json",
+    "prompt": "washing dishes",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1543584445,
+    "w3CTraceId": "ecd7b5a51fb4f324d18e04bcb850863a",
+    "isTrimmed": false
+}

@@ -1,0 +1,11 @@
+{
+    "asset": "7f2aeddf1e795bb4d98cfa8ee359b877",
+    "fileName": "0198b172-ee17-76b1-b39c-78366f8325e6.pose.json",
+    "prompt": "a character slowly waking up from bed on the right and then immediately looking from side to side",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1867743097,
+    "w3CTraceId": "c55d8279e00b78a2fdfb5fc5b0a1760c",
+    "isTrimmed": false
+}

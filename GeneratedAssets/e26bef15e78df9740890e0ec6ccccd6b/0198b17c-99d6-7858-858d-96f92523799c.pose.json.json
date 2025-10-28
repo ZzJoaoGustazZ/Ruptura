@@ -1,0 +1,11 @@
+{
+    "asset": "e26bef15e78df9740890e0ec6ccccd6b",
+    "fileName": "0198b17c-99d6-7858-858d-96f92523799c.pose.json",
+    "prompt": "turn your head a little to the right",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 2077604263,
+    "w3CTraceId": "b55f98535ff99587f399d26f5c41e589",
+    "isTrimmed": false
+}

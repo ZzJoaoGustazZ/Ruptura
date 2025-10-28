@@ -1,0 +1,11 @@
+{
+    "asset": "a02c14733b5a5934fad8724916b4aa4c",
+    "fileName": "0199c998-7c9f-7778-9485-830aad6e61b6.pose.json",
+    "prompt": "wake up, detail legs",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1918986144,
+    "w3CTraceId": "efef0b7e7bc866dffffcfe17237d3608",
+    "isTrimmed": false
+}

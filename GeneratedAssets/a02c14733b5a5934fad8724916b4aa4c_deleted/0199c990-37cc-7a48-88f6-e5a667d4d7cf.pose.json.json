@@ -1,0 +1,11 @@
+{
+    "asset": "a02c14733b5a5934fad8724916b4aa4c",
+    "fileName": "0199c990-37cc-7a48-88f6-e5a667d4d7cf.pose.json",
+    "prompt": "waking up, slowly",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 754331446,
+    "w3CTraceId": "5eaebd571b129d942c9b536b70f48ab5",
+    "isTrimmed": false
+}

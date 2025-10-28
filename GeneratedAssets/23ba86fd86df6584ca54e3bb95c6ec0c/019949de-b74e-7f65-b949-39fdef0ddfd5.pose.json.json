@@ -1,0 +1,11 @@
+{
+    "asset": "23ba86fd86df6584ca54e3bb95c6ec0c",
+    "fileName": "019949de-b74e-7f65-b949-39fdef0ddfd5.pose.json",
+    "prompt": "wait 1 second, look at the sides, slowly",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 223983129,
+    "w3CTraceId": "c6a405a3c6a595525ad0ddb338bcd362",
+    "isTrimmed": false
+}

@@ -1,0 +1,11 @@
+{
+    "asset": "7998862cd87ef4f458a64399c26033cc",
+    "fileName": "0198b11d-17aa-7062-acdc-4ac705cc8841.pose.json",
+    "prompt": "look sideways and then look back",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1959270777,
+    "w3CTraceId": "2bbc80789d7b1248d9720fe4fbc43827",
+    "isTrimmed": false
+}

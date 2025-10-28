@@ -1,0 +1,11 @@
+{
+    "asset": "23ba86fd86df6584ca54e3bb95c6ec0c",
+    "fileName": "0198b120-437c-7a93-b131-94a3341b2f48.pose.json",
+    "prompt": "look slowly to the sides and then look back, avoid moving your head too much",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1821374459,
+    "w3CTraceId": "893c0e2feb3075f941821f01bdc55157",
+    "isTrimmed": false
+}

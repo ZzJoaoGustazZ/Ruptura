@@ -1,0 +1,38 @@
+# Ignorar pastas grandes
+Library/
+library/
+Assets/
+assets/
+
+# Logs
+*.log
+
+# Arquivos temporários e caches comuns
+.vs/
+.gradle/
+Temp/
+temp/
+Obj/
+obj/
+Build/
+build/
+Builds/
+builds/
+
+# Arquivos de backup e temporários do Unity
+*.pidb
+*.pdb
+*.mdb
+*.tmp
+*.user
+*.userprefs
+*.suo
+
+# Relatórios e arquivos automáticos
+sysinfo.txt
+mono_crash.*
+
+# Evitar metadados desnecessários
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta

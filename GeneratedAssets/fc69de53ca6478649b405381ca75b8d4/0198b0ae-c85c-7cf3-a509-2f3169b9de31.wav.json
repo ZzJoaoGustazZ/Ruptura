@@ -1,0 +1,13 @@
+{
+    "asset": "fc69de53ca6478649b405381ca75b8d4",
+    "fileName": "0198b0ae-c85c-7cf3-a509-2f3169b9de31.wav",
+    "prompt": "scream, terror, esquisofrenic",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "d1b713c9ecf1492f9926e03b09128ea5",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

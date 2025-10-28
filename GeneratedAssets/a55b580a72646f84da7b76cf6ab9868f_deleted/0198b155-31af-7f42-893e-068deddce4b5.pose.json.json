@@ -1,0 +1,11 @@
+{
+    "asset": "a55b580a72646f84da7b76cf6ab9868f",
+    "fileName": "0198b155-31af-7f42-893e-068deddce4b5.pose.json",
+    "prompt": "you are lying down, sit down and get out of bed",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 970459472,
+    "w3CTraceId": "f53c2a6bd227bbda3ee94a1d05f42739",
+    "isTrimmed": false
+}

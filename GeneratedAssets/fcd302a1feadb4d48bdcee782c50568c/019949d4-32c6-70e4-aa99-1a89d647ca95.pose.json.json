@@ -1,0 +1,11 @@
+{
+    "asset": "fcd302a1feadb4d48bdcee782c50568c",
+    "fileName": "019949d4-32c6-70e4-aa99-1a89d647ca95.pose.json",
+    "prompt": "wake up, left of the bed, realist, 90 graus",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1721686230,
+    "w3CTraceId": "33cc9af5561dfc80a8a281d100bff3c7",
+    "isTrimmed": false
+}

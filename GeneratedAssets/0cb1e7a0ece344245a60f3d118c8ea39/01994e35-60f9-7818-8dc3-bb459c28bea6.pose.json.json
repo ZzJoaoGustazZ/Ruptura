@@ -1,0 +1,11 @@
+{
+    "asset": "0cb1e7a0ece344245a60f3d118c8ea39",
+    "fileName": "01994e35-60f9-7818-8dc3-bb459c28bea6.pose.json",
+    "prompt": "walk a little , turn around left 90 graus, opne the door",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 300399985,
+    "w3CTraceId": "fe38b6cba83664c410e0cbed4a602c3d",
+    "isTrimmed": false
+}

@@ -1,0 +1,20 @@
+{
+    "asset": "1820878a9d19ba04b9a10a9241dacad2",
+    "fileName": "0198b023-c7f1-7478-b161-3a088795685d.jpg",
+    "prompt": "wood ",
+    "negativePrompt": "",
+    "model": "4474eebb-015a-4f8e-a2db-79c73b6b5b00",
+    "modelName": "Bold Lines Illustrations",
+    "customSeed": -1,
+    "w3CTraceId": "25ce2dbab0cef8429b965cb36d91fa9c",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

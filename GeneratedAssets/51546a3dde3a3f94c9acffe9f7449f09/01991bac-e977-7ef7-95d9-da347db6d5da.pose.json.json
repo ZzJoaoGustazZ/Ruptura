@@ -1,0 +1,11 @@
+{
+    "asset": "51546a3dde3a3f94c9acffe9f7449f09",
+    "fileName": "01991bac-e977-7ef7-95d9-da347db6d5da.pose.json",
+    "prompt": "wake up, slowly, sitdown, bed",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 233324121,
+    "w3CTraceId": "b8bdf253cc79a1552add0cd506e7323d",
+    "isTrimmed": false
+}

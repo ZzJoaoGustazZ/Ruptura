@@ -1,0 +1,11 @@
+{
+    "asset": "0cb1e7a0ece344245a60f3d118c8ea39",
+    "fileName": "01994e3a-2e97-7184-99fb-debabc977fb1.pose.json",
+    "prompt": "porta",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1912403536,
+    "w3CTraceId": "34042ec82af4500319a41b3affdd9cab",
+    "isTrimmed": false
+}

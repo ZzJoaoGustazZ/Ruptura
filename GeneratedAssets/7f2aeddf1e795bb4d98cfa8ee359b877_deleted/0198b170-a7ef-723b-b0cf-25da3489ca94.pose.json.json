@@ -1,0 +1,11 @@
+{
+    "asset": "7f2aeddf1e795bb4d98cfa8ee359b877",
+    "fileName": "0198b170-a7ef-723b-b0cf-25da3489ca94.pose.json",
+    "prompt": "A character or object performing an animation where it looks from one side to the other.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 643648990,
+    "w3CTraceId": "edf560b32d923efb81b59ebeb1bfbbb4",
+    "isTrimmed": false
+}

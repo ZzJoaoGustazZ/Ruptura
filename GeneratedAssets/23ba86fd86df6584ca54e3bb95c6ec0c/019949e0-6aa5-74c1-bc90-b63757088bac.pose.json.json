@@ -1,0 +1,11 @@
+{
+    "asset": "23ba86fd86df6584ca54e3bb95c6ec0c",
+    "fileName": "019949e0-6aa5-74c1-bc90-b63757088bac.pose.json",
+    "prompt": "look around slowly, do not move any part other than your head",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1374770836,
+    "w3CTraceId": "5ad04908c7c993abc42ea783daa54833",
+    "isTrimmed": false
+}
